@@ -10,5 +10,8 @@
 [Blog](https://sowmya2790.github.io/Blog/)
 <br>
 [Resume'](https://sowmya2790.github.io/Resume'/)
+<br>
+[Home](https://https://sowmya2790.github.io/Sowmiya_Portfolio/)
+
 
 
