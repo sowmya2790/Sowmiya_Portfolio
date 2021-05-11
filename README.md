@@ -24,23 +24,3 @@
 <h4 align="left"> Contact </h4>
 
 LinkedIn: [Sowmiya_M](https://www.linkedin.com/in/sowmiyamuruganandam)
-
-<a href="#" class="button icon search">Search</a>
-
-<div class="actions button-container">
-    <a href="#" class="button primary">Compose new</a>
-
-    <div class="button-group">
-        <a href="#" class="button primary">Archive</a>
-        <a href="#" class="button">Report spam</a>
-        <a href="#" class="button danger">Delete</a>
-    </div>
-
-    <div class="button-group minor-group">
-        <a href="#" class="button">Move to</a>
-        <a href="#" class="button">Labels</a>
-    </div>
-</div>
-<a href="#" class="button">Post comment (link)</a>
-<input class="button" type="submit" value="Post comment (input)">
-<button class="button" type="submit">Post comment (button)</button>
