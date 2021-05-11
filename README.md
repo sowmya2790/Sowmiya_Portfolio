@@ -16,7 +16,8 @@ I am Sowmiya Muruganandam, Below are the links to a few of my Data Science Proje
 <br>
 
 About Me: I have over five years of experience in Program Management and I am currently exploring the world of data
-My LinkedIn : visit [Sowmiya_M](https://www.linkedin.com/in/sowmiyamuruganandam)
+<br>
+For My LinkedIn : visit [Sowmiya_M](https://www.linkedin.com/in/sowmiyamuruganandam)
 
 
 
