@@ -1,4 +1,9 @@
 # Sowmiya_Portfolio
+
+Hi, Thanks for stopping by!
+
+Below are the links to a few of my Data Science Projects
+
 [Machine Learning Projects](https://sowmya2790.github.io/Machine-Learning/)
 <br>
 [Data-Visualisation](https://sowmya2790.github.io/Data-Visualisation/)
@@ -9,9 +14,7 @@
 <br>
 [Blog](https://sowmya2790.github.io/Blog/)
 <br>
-[Resume'](https://sowmya2790.github.io/Resume'/)
-<br>
-[Home](https://https://sowmya2790.github.io/Sowmiya_Portfolio/)
+
 
 
 
