@@ -1,8 +1,9 @@
-# Sowmiya_Portfolio
+## [![header](https://github.com/sowmya2790/Sowmiya_Portfolio/header.png)](https://sowmya2790.github.io/Sowmiya_Portfolio/)
 
-Hi, Thanks for stopping by! 
+<h2 align="center">Hi, Thanks for stopping by!👋</h2>
+<p align="center"> I am Sowmiya Muruganandam, I have over five years of experience in Program Management, an MBA in operations management. I am currently exploring the world of data! I recently graduated from ASU's MS BA program as a Summa cum laude and I am looking for a challenging role that will provide me an opportunity to use both my business and data skills </p>
 
-I am Sowmiya Muruganandam, Below are the links to a few of my Data Science Projects
+Below are the links to a few of my Data Science Projects
 
 [Machine Learning Projects](https://sowmya2790.github.io/Machine-Learning/)
 <br>
@@ -15,11 +16,6 @@ I am Sowmiya Muruganandam, Below are the links to a few of my Data Science Proje
 [Blog](https://sowmya2790.github.io/Blog/)
 <br>
 
-About Me: I have over five years of experience in Program Management and I am currently exploring the world of data
+LinkedIn: 
 <br>
-For My LinkedIn : visit [Sowmiya_M](https://www.linkedin.com/in/sowmiyamuruganandam)
-
-
-
-
-
+visit [Sowmiya_M](https://www.linkedin.com/in/sowmiyamuruganandam)
