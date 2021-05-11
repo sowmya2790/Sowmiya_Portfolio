@@ -1,6 +1,6 @@
 # Sowmiya_Portfolio
 
-Hi, Thanks for stopping by!
+Hi, I am Sowmiya Muruganandam, Thanks for stopping by!
 
 Below are the links to a few of my Data Science Projects
 
