@@ -1,6 +1,5 @@
----
-# ![header](https://github.com/sowmya2790/Sowmiya_Portfolio/blob/89e0ffe4720cdcef302a4de9a2e03ef9e9783542/header.png)
----
+
+# ![header](https://github.com/sowmya2790/Sowmiya_Portfolio/blob/89e0ffe4720cdcef302a4de9a2e03ef9e9783542/header.png
 
 <h2 align="center">Hi, Thanks for stopping by!👋</h2>
 <h4 align="left">About Me : </h4>
