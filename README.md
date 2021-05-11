@@ -11,11 +11,13 @@ Below are the links to a few of my Data Science Projects
 <br>
 [Excel-Analysis](https://sowmya2790.github.io/Excel-Analysis/)
 <br>
+TinyML (working on a Leaf disease detection project using Maxim's MAx78000FTHR , link to the files will be updated soon)
+<br>
+
 [Creativity](https://sowmya2790.github.io/Creativity/)
 <br>
 [Blog](https://sowmya2790.github.io/Blog/)
 <br>
 
-LinkedIn: 
-<br>
-visit [Sowmiya_M](https://www.linkedin.com/in/sowmiyamuruganandam)
+LinkedIn: [Sowmiya_M](https://www.linkedin.com/in/sowmiyamuruganandam)
+
