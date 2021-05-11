@@ -1,7 +1,6 @@
 ---
 # ![header](https://github.com/sowmya2790/Sowmiya_Portfolio/blob/89e0ffe4720cdcef302a4de9a2e03ef9e9783542/header.png)
 ---
-<link href="https://github.com/necolas/css3-github-buttons/blob/9b3e3828e793f98d727b0bed4c88afc1b4ffd088/gh-buttons.css" rel="stylesheet"></link>
 
 <h2 align="center">Hi, Thanks for stopping by!👋</h2>
 <h4 align="left">About Me : </h4>
