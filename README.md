@@ -21,4 +21,3 @@ TinyML (working on a Leaf disease detection project using Maxim's MAx78000FTHR ,
 <br>
 
 LinkedIn: [Sowmiya_M](https://www.linkedin.com/in/sowmiyamuruganandam)
-
