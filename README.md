@@ -1,8 +1,8 @@
 # Sowmiya_Portfolio
 
-Hi, I am Sowmiya Muruganandam, Thanks for stopping by!
+Hi, Thanks for stopping by! 
 
-Below are the links to a few of my Data Science Projects
+I am Sowmiya Muruganandam, Below are the links to a few of my Data Science Projects
 
 [Machine Learning Projects](https://sowmya2790.github.io/Machine-Learning/)
 <br>
@@ -14,6 +14,10 @@ Below are the links to a few of my Data Science Projects
 <br>
 [Blog](https://sowmya2790.github.io/Blog/)
 <br>
+
+About Me: I have over five years of experience in Program Management and I am currently exploring the world of data
+My LinkedIn : visit [Sowmiya_M](https://www.linkedin.com/in/sowmiyamuruganandam)
+
 
 
 
