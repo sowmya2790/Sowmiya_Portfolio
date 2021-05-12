@@ -16,7 +16,7 @@
 <br>
 [4. Excel-Analysis](https://sowmya2790.github.io/Excel-Analysis/)
 <br>
-6.TinyML(working on a Leaf disease detection project using Maxim's MAx78000FTHR , link to the files will be updated soon)
+5.TinyML(working on a Leaf disease detection project using Maxim's MAx78000FTHR , link to the files will be updated soon)
 <br>
 <h4 align="left"> Other Links </h4>
 
