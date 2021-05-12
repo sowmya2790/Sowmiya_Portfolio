@@ -10,11 +10,13 @@
 
 [1. Machine Learning Projects](https://sowmya2790.github.io/Machine-Learning/)
 <br>
-[2. Data-Visualisation](https://sowmya2790.github.io/Data-Visualisation/)
+[2. Text Analytics](https://sowmya2790.github.io/Text-Analytics/)
 <br>
-[3. Excel-Analysis](https://sowmya2790.github.io/Excel-Analysis/)
+[3. Data-Visualisation](https://sowmya2790.github.io/Data-Visualisation/)
 <br>
-4.TinyML(working on a Leaf disease detection project using Maxim's MAx78000FTHR , link to the files will be updated soon)
+[4. Excel-Analysis](https://sowmya2790.github.io/Excel-Analysis/)
+<br>
+6.TinyML(working on a Leaf disease detection project using Maxim's MAx78000FTHR , link to the files will be updated soon)
 <br>
 <h4 align="left"> Other Links </h4>
 
